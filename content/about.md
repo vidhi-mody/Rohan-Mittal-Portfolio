@@ -26,7 +26,7 @@ In chronological order:
 2. Jain, S., Mittal, R., Jain, A., & Sinha, A. (2019, September). An efficient framework for monitoring tree cover in an area through aerial images. In Applications of machine learning (Vol. 11139, pp. 327-333). SPIE.
 3. Jain, S., Mittal, R., Mishra, P., & Sinha, A. (2019, September). Road network mapping from aerial images. In Applications of Machine Learning (Vol. 11139, pp. 321-326). SPIE.
 
-## Typography
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -59,4 +59,4 @@ def is_elementary():
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
 
 [^1]: This is the first footnote.
-[^2]: This is the second footnote.
+[^2]: This is the second footnote. -->

@@ -1,5 +1,5 @@
 title = "Rohan Mittal"
-baseURL = "https://example.com"
+baseURL = "https://rohan-mittal.netlify.app/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
