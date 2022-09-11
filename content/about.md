@@ -16,7 +16,7 @@ Fast-forward to today, I’ve had the privilege of working at a [start-up](https
 
 I also recently appointed as a Grader at [UMass Amherst](https://www.umass.edu/) for COMPSCI 589 (Machine Learning).
 
-If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/rohan73/). To collaborate here’s my GitHub or you can drop me an email at rohanmittal [AT] umass [DOT] edu.
+If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/rohan73/). To collaborate here’s my [GitHub](https://github.com/rohanmittal73) or you can drop me an email at rohanmittal [AT] umass [DOT] edu.
 
 .
 
